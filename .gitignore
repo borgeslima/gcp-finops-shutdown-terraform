@@ -2,3 +2,4 @@
 local
 shutdown.zip
 .terraform
+.terraform.lock.hcl
