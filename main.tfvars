@@ -1,1 +1,1 @@
-project_id = "finops-zamp"
+project_id = "finops"
