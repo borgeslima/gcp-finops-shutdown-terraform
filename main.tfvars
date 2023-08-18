@@ -1,1 +1,1 @@
-project_id = "finops"
+project_id = "{YOU_PROJECT}"
